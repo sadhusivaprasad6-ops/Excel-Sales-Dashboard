@@ -6,7 +6,7 @@ An interactive Excel dashboard built using Pivot Tables, Pivot Charts, Slicers, 
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](EXCEL DASHBOARD.png)
 
 ## ✨ Features
 
