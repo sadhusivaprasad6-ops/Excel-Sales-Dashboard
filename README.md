@@ -2,11 +2,10 @@
 
 ## 📌 Project Overview
 
-An interactive Excel dashboard built using Pivot Tables, Pivot Charts, Slicers, and KPI Cards.
-
+An interactive Excel dashboard built using Pivot Tables, Pivot Charts, Slicers, and KPI Card
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](EXCEL DASHBOARD.png)
+![Dashboard Preview](EXCEL%20DASHBOARD.png)
 
 ## ✨ Features
 
